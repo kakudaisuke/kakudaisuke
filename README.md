@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Bonjour, こんにちは 👋
 
 <!--
 **kakudaisuke/kakudaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://raw.githubusercontent.com/kakudaisuke/kakudaisuke/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
