@@ -1,5 +1,10 @@
 ### Hi there, Bonjour, こんにちは 👋
 
+現在こちらのリポジトリでチーム開発をしています。
+ジャズライブの口コミサイトを作っています。
+私は発起人で、企画とプロジェクトマネジメントをしながら、作業的にはバックエンドを担当しております。
+https://github.com/WebYorozuya/jazz-review
+
 <!--
 **kakudaisuke/kakudaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
